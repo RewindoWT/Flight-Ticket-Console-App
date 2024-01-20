@@ -1,0 +1,42 @@
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App\GALA FLY Ticket App\obj\Debug\net8.0\GALA FLY Ticket App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App\GALA FLY Ticket App\obj\Debug\net8.0\GALA FLY Ticket App.AssemblyInfoInputs.cache
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App\GALA FLY Ticket App\obj\Debug\net8.0\GALA FLY Ticket App.AssemblyInfo.cs
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App\GALA FLY Ticket App\obj\Debug\net8.0\GALA FLY Ticket App.csproj.CoreCompileInputs.cache
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App\GALA FLY Ticket App\bin\Debug\net8.0\GALA FLY Ticket App.exe
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App\GALA FLY Ticket App\bin\Debug\net8.0\GALA FLY Ticket App.deps.json
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App\GALA FLY Ticket App\bin\Debug\net8.0\GALA FLY Ticket App.runtimeconfig.json
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App\GALA FLY Ticket App\bin\Debug\net8.0\GALA FLY Ticket App.dll
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App\GALA FLY Ticket App\bin\Debug\net8.0\GALA FLY Ticket App.pdb
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App\GALA FLY Ticket App\obj\Debug\net8.0\GALA FLY Ticket App.dll
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App\GALA FLY Ticket App\obj\Debug\net8.0\refint\GALA FLY Ticket App.dll
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App\GALA FLY Ticket App\obj\Debug\net8.0\GALA FLY Ticket App.pdb
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App\GALA FLY Ticket App\obj\Debug\net8.0\GALA FLY Ticket App.genruntimeconfig.cache
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App\GALA FLY Ticket App\obj\Debug\net8.0\ref\GALA FLY Ticket App.dll
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App - Kopya\GALA FLY Ticket App\bin\Debug\net8.0\GALA FLY Ticket App.exe
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App - Kopya\GALA FLY Ticket App\bin\Debug\net8.0\GALA FLY Ticket App.deps.json
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App - Kopya\GALA FLY Ticket App\bin\Debug\net8.0\GALA FLY Ticket App.runtimeconfig.json
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App - Kopya\GALA FLY Ticket App\bin\Debug\net8.0\GALA FLY Ticket App.dll
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App - Kopya\GALA FLY Ticket App\bin\Debug\net8.0\GALA FLY Ticket App.pdb
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App - Kopya\GALA FLY Ticket App\obj\Debug\net8.0\GALA FLY Ticket App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App - Kopya\GALA FLY Ticket App\obj\Debug\net8.0\GALA FLY Ticket App.AssemblyInfoInputs.cache
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App - Kopya\GALA FLY Ticket App\obj\Debug\net8.0\GALA FLY Ticket App.AssemblyInfo.cs
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App - Kopya\GALA FLY Ticket App\obj\Debug\net8.0\GALA FLY Ticket App.csproj.CoreCompileInputs.cache
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App - Kopya\GALA FLY Ticket App\obj\Debug\net8.0\GALA FLY Ticket App.dll
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App - Kopya\GALA FLY Ticket App\obj\Debug\net8.0\refint\GALA FLY Ticket App.dll
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App - Kopya\GALA FLY Ticket App\obj\Debug\net8.0\GALA FLY Ticket App.pdb
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App - Kopya\GALA FLY Ticket App\obj\Debug\net8.0\GALA FLY Ticket App.genruntimeconfig.cache
+C:\Users\rewin\OneDrive\Masaüstü\GALA FLY Ticket App - Kopya\GALA FLY Ticket App\obj\Debug\net8.0\ref\GALA FLY Ticket App.dll
+C:\Users\rewin\OneDrive\Masaüstü\R Files\GALA FLY Ticket App\GALA FLY Ticket App\bin\Debug\net8.0\GALA FLY Ticket App.exe
+C:\Users\rewin\OneDrive\Masaüstü\R Files\GALA FLY Ticket App\GALA FLY Ticket App\bin\Debug\net8.0\GALA FLY Ticket App.deps.json
+C:\Users\rewin\OneDrive\Masaüstü\R Files\GALA FLY Ticket App\GALA FLY Ticket App\bin\Debug\net8.0\GALA FLY Ticket App.runtimeconfig.json
+C:\Users\rewin\OneDrive\Masaüstü\R Files\GALA FLY Ticket App\GALA FLY Ticket App\bin\Debug\net8.0\GALA FLY Ticket App.dll
+C:\Users\rewin\OneDrive\Masaüstü\R Files\GALA FLY Ticket App\GALA FLY Ticket App\bin\Debug\net8.0\GALA FLY Ticket App.pdb
+C:\Users\rewin\OneDrive\Masaüstü\R Files\GALA FLY Ticket App\GALA FLY Ticket App\obj\Debug\net8.0\GALA FLY Ticket App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rewin\OneDrive\Masaüstü\R Files\GALA FLY Ticket App\GALA FLY Ticket App\obj\Debug\net8.0\GALA FLY Ticket App.AssemblyInfoInputs.cache
+C:\Users\rewin\OneDrive\Masaüstü\R Files\GALA FLY Ticket App\GALA FLY Ticket App\obj\Debug\net8.0\GALA FLY Ticket App.AssemblyInfo.cs
+C:\Users\rewin\OneDrive\Masaüstü\R Files\GALA FLY Ticket App\GALA FLY Ticket App\obj\Debug\net8.0\GALA FLY Ticket App.csproj.CoreCompileInputs.cache
+C:\Users\rewin\OneDrive\Masaüstü\R Files\GALA FLY Ticket App\GALA FLY Ticket App\obj\Debug\net8.0\GALA FLY Ticket App.dll
+C:\Users\rewin\OneDrive\Masaüstü\R Files\GALA FLY Ticket App\GALA FLY Ticket App\obj\Debug\net8.0\refint\GALA FLY Ticket App.dll
+C:\Users\rewin\OneDrive\Masaüstü\R Files\GALA FLY Ticket App\GALA FLY Ticket App\obj\Debug\net8.0\GALA FLY Ticket App.pdb
+C:\Users\rewin\OneDrive\Masaüstü\R Files\GALA FLY Ticket App\GALA FLY Ticket App\obj\Debug\net8.0\GALA FLY Ticket App.genruntimeconfig.cache
+C:\Users\rewin\OneDrive\Masaüstü\R Files\GALA FLY Ticket App\GALA FLY Ticket App\obj\Debug\net8.0\ref\GALA FLY Ticket App.dll
